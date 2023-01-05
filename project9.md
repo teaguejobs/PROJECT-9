@@ -30,7 +30,7 @@ sudo apt-get install jenkins`
 * From your browser access
 `http://<Jenkins-Server-Public-IP-Address-or-Public-DNS-Name>:8080`
 
-![alt text](./jenkins%20server.PNG)
+![alt text](./jenkins%20setup.PNG)
 
 **Step 2 – Configure Jenkins to retrieve source codes from GitHub using Webhooks**
 
